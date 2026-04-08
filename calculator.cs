@@ -4,4 +4,10 @@ class calculator
 	{
 		
 	}
+	
+	static int penambhan(int a, int b)
+	{
+		return a + b;
+	}
+	
 }
